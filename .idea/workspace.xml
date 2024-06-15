@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bea94182-7b79-4fac-a0e2-a30df95a0a1d" name="更改" comment="hot-fix commit2" />
+    <list default="true" id="bea94182-7b79-4fac-a0e2-a30df95a0a1d" name="更改" comment="master commit2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +42,9 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hvFVPjiwLGtiN1c5YznsadOrV1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,7 +62,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,6 +84,7 @@
       <updated>1715736492817</updated>
       <workItem from="1715736492817" duration="637000" />
       <workItem from="1718466668154" duration="3426000" />
+      <workItem from="1718470131260" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -123,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718470024460</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="master commit2">
+      <option name="closed" value="true" />
+      <created>1718470243919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718470243919</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +157,7 @@
     <MESSAGE value="third commit" />
     <MESSAGE value="hot-fix commit1" />
     <MESSAGE value="hot-fix commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit2" />
+    <MESSAGE value="master commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="master commit2" />
   </component>
 </project>
